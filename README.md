@@ -1,5 +1,16 @@
 # 💫 About Me:
-My name is Muhammad Affan Hussain Siddiqui I am expert in Php/ laravel web development but I can do development in all the languages like react etc
+👨‍💻 Muhammad Affan Hussain Siddiqui
+Expert PHP/Laravel Web Developer | Full-Stack Wizard 🧙‍♂️
+
+Hey there! 👋 I'm Affan, a skilled web developer specializing in PHP/Laravel, with expertise in crafting robust and scalable web applications. But that's not all - I'm also proficient in React, and can juggle multiple languages like a pro 🎯.
+
+Need a dynamic website, API, or a complex web application? Let's build something awesome together! 🚀
+
+🔹 Services:
+- Custom Laravel Development
+- React Frontend Development
+- Full-Stack Solutions
+- API Integration & Design
 
 
 ## 🌐 Socials:
