@@ -6,13 +6,6 @@ Hey there! 👋 I'm Affan, a skilled web developer specializing in PHP/Laravel, 
 
 Need a dynamic website, API, or a complex web application? Let's build something awesome together! 🚀
 
-🔹 Services:
-- Custom Laravel Development
-- React Frontend Development
-- Full-Stack Solutions
-- API Integration & Design
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@affan__1098) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-affan-hussain-siddiqui-1a968139b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
